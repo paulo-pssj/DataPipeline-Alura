@@ -161,6 +161,8 @@ airflow-webserver.pid
 unittests.cfg
 airflow.cfg
 .db
+datalake/
+/datalake/
 
 
 

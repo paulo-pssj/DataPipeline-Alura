@@ -160,9 +160,10 @@ airflow/logs/
 airflow-webserver.pid
 unittests.cfg
 airflow.cfg
-.db
+airflow.db
 datalake/
 /datalake/
+.vscode
 
 
 
